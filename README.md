@@ -1,2 +1,2 @@
-# scenetext_recognition
-use CNN and LSTM to discern scene text
+# CRNN_tensorflow
+use CRNN to recognize text
